@@ -1,4 +1,4 @@
-https://github.com/Ha3MrX/DDos-Attack를 참고 하여 만들었습니다
+https://github.com/Ha3MrX/DDos-Attack 참고 하여 만들었습니다
 
 <h2>파이썬 Dos 공격 도구</h2>
 <font color=red>
