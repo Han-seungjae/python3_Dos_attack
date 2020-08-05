@@ -8,8 +8,8 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system('clear')
 
-print("제작   : 포렌식 요정")
-print("티스토리 :https://github.com/Han-seungjae")
+print("제작   : 한유이")
+print("깃헙 : https://github.com/Han-seungjae")
 
 ip = input("타겟 IP : ")
 port = int(input("포트       : "))
