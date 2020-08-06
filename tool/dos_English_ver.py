@@ -7,6 +7,14 @@ import random
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system('clear')
+print(" ____        _   _                 _____   ____")
+print("|  _ \ _   _| |_| |__   ___  _ __ |___ /  |  _ \  ___  ___ ")
+print("| |_) | | | | __| '_ \ / _ \| '_ \  |_ \  | | | |/ _ \/ __| ")
+print("|  __/| |_| | |_| | | | (_) | | | |___) | | |_| | (_) \__ \ ")
+print("|_|    \__, |\__|_| |_|\___/|_| |_|____/  |____/ \___/|___/")
+print("       |___/\n")
+
+
 
 print("Maker  : Han Yui")
 print("Github : https://github.com/Han-seungjae")
